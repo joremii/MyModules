@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Modules</string>
+    <string name="mod1">C203 Web App Development in PHP</string>
+    <string name="mod2">C206 Software Development Process</string>
+    <string name="mod3">C218 UI/UX Design for Apps</string>
+    <string name="mod4">C235 IT Security and Management</string>
+    <string name="mod5">C346 Mobile App Development</string>
+
+</resources>
